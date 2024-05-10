@@ -9,5 +9,10 @@ Este chatBot tem como objetivo segerir um cardápio completo de segunda a doming
  - Lista de substutivos
  - Dicas de saúde
 
+## Responsável
+
+Rodrigo Fonseca Borges
+rfborges@gmail.com
+
 ## Gostou ?
 Não deixe de votar neste projeto
